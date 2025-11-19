@@ -3,6 +3,12 @@
 Este proyecto presenta el desarrollo de un software especializado para el **diseño de disparos de producción**, así como el análisis de su impacto en la **productividad de pozos petroleros**.  
 El programa integra fundamentos teóricos, parámetros operativos y cálculos aplicados a la ingeniería de producción.
 
+<p align="center">
+  <img src="Imagenes/FACTORES%20GEOMETRICOS%20DEL%20DISPARO.png" width="450">
+</p>
+
+<p align="center"><em>Ilustración 1. Factores geométricos del disparo (Bellarby, 2009).</em></p>
+
 ---
 
 ## 🎯 Objetivo del Proyecto
